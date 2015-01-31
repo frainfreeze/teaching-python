@@ -1,8 +1,6 @@
-# Lesson 3: more printing
+# Lesson 3: strings
 Open main.py found inside this same directory in your favorite editor.
-
-Strings
-----
+____
 Every time you put "" (double-quotes) around a piece of text you have been making a string.
 You can print strings, save strings to files, send strings to web servers,
 and many other usefull things.
