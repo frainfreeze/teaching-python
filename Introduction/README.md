@@ -31,4 +31,5 @@ After you installed python
 For windows users:
 To start open command prompt by pressing windows key on your keyboard + letter 'r'
 following window should pop up:
-![Run_Cmd](frainfreeze.github.com/teaching-python/resources/run_cmd.png)
+
+![Run_Cmd](http://i.hizliresim.com/2yg5lE.png)
