@@ -1,6 +1,6 @@
 # Basics of python
 
-- [ ] Lesson 1: printing and commenting
+- [x] Lesson 1: printing and commenting
 - [ ] Lesson 2: running programs
 - [ ] Lesson 3: more printing
 - [ ] Lesson 4: operators
