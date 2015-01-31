@@ -15,7 +15,7 @@ Python interpreters are available for installation on many operating systems, al
 Using third-party tools, such as Py2exe or Pyinstaller Python code can be packaged into stand-alone executable programs for some of the most popular operating systems, allowing for the distribution of Python-based software for use on those environments without requiring the installation of a Python interpreter.
 
 Python, is free and open-source software and you can use it however you want.
-
+```
 Wondering what can you do with python?
 Just about anything your heart desires. I mean it.
 
