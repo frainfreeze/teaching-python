@@ -5,4 +5,4 @@
 - [x] Lesson 3: strings
 - [x] Lesson 4: operators
 - [x] Lesson 5: Escape Characters
-- [ ] Lesson 6: user input
+- [x] Lesson 6: user input
