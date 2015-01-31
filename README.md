@@ -40,6 +40,9 @@ Or you can download repository as zip file using button on right side:
 To start with tutorial go to /Introduction and read readme.md.
 
 This lessons are only scratch on surface of python.
+____
 I suggest you to read official tutorial here: https://docs.python.org/2/tutorial/index.html
+
 There are also excellent python lessons by Derek Banas on youtube: https://www.youtube.com/playlist?list=PLA175E8A1816CD64B
+
 An interesting blog to read is Mouse vs Python by Mike Driscoll: http://www.blog.pythonlibrary.org/
