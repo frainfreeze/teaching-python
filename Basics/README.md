@@ -4,5 +4,5 @@
 - [x] Lesson 2: running programs
 - [x] Lesson 3: strings
 - [x] Lesson 4: operators
-- [ ] Lesson 5: more printing!
+- [x] Lesson 5: Escape Characters
 - [ ] Lesson 6: user input

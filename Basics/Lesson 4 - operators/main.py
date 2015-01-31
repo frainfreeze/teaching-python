@@ -1,6 +1,6 @@
 #31.01.2015.
 #python 2.7
-#author : tomislav kućar
+#author : tomislav kucar
 
 #Arithmetic operators
 print  3 + 4

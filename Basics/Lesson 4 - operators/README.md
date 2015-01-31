@@ -4,7 +4,7 @@ Operators in a programming language are used to vaguely describe 5 different are
 arithmetic, assignment, increment/decrement, comparison, logical.
 We will only cover a few of them.
 
-Please open main.py from this lesson inside your editor. 
+Please open main.py from this lesson inside your editor.
 It contains many more comments and explanations.
 
 Arithmetic operators
@@ -16,8 +16,8 @@ print  3 - 4
 print  3 * 4
 print  3 / 4
 print  3 % 2
-print  3 ** 4  #to the fourth power
-print  3 // 4  #floor division
+print  3 ** 4
+print  3 // 4
 ```
 Would output :
 ```
