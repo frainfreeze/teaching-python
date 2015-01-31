@@ -40,3 +40,16 @@ following window should pop up:
 
 ![Run_Cmd](http://i.hizliresim.com/2yg5lE.png)
 
+If you are using unix/linux system open your terminal.
+
+Into terminal or command prompt (depending on system) write 'python' and press enter.
+Output similar to following should appear (note: it will be different depending on OS you use):
+
+```
+Python 2.7.6 (default, Mar 22 2014, 22:59:38)
+[GCC 4.8.2] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+```
+
+Congratulations! You just started python interpreter and you are ready to start coding!
