@@ -23,6 +23,8 @@ Repository used to teach python 2.7
   - [ ] Operators 2
   - [ ] Classes and objects
 
+- [ ] Expert (Data Structures and Algorithms with Object-Oriented Design Patterns in Python)
+  
 ____
 
 # How to use this
