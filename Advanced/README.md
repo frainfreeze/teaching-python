@@ -1,3 +1,4 @@
 # Advanced python
 
-- [ ] Classes and objects 
+- [ ] Operators 2
+- [ ] Classes and objects

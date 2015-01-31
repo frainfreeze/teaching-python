@@ -7,7 +7,7 @@ Repository used to teach python 2.7
   - [x] Lesson 1: printing and commenting
   - [x] Lesson 2: running programs
   - [x] Lesson 3: strings
-  - [ ] Lesson 4: operators
+  - [x] Lesson 4: operators
   - [ ] Lesson 5: more printing!
   - [ ] Lesson 6: user input
 
@@ -20,4 +20,5 @@ Repository used to teach python 2.7
   - [ ] Modules
 
 - [ ] Advanced
+  - [ ] Operators 2
   - [ ] Classes and objects
