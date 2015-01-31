@@ -12,7 +12,14 @@ Lessons:
   - [ ] Lesson 6: user input
 
 - [ ] Medium
+  - [ ] Reading and writing files
+  - [ ] Functions
+  - [ ] Lists
+  - [ ] Tuples
+  - [ ] Dictionaries
+  - [ ] Modules
+
+- [ ] Advanced
+  - [ ] Classes and objects 
   - [ ] 
-  - [ ] 
-  - [ ] 
-  - [ ] 
+  - [ ]
