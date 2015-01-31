@@ -1,5 +1,5 @@
-# teaching-python
-Repository used to tech python.
+# Teaching python
+Repository used to teach python 2.7
 
 Lessons:
 - [ ] Introduction
@@ -21,5 +21,3 @@ Lessons:
 
 - [ ] Advanced
   - [ ] Classes and objects 
-  - [ ] 
-  - [ ]
