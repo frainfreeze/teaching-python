@@ -36,6 +36,7 @@ To comment you just can use the # (pound) sign to comment out everything that fo
 >>>print("Not a comment")
 >>>Not a comment
 >>>#print("Am a comment")
+>>>
 ```
 You can also do multiple line comments too.
 To make one you can simply use 3 single or 3 double quotes before and after the
