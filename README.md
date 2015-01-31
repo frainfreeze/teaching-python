@@ -2,7 +2,7 @@
 Repository used to teach python 2.7
 
 
-- [ ] Introduction
+- [x] Introduction
 - [ ] Basics
   - [ ] Lesson 1: printing and commenting
   - [ ] Lesson 2: running programs
