@@ -1,7 +1,7 @@
 # Teaching python
 Repository used to teach python 2.7
 
-Lessons:
+
 - [ ] Introduction
 - [ ] Basics
   - [ ] Lesson 1: printing and commenting
