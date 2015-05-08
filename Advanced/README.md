@@ -2,3 +2,5 @@
 
 - [ ] Operators 2
 - [ ] Classes and objects
+- [ ] Decorators
+- [ ] Metaclasses
