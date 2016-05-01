@@ -38,7 +38,7 @@ For windows users:
 To start open command prompt by pressing windows key on your keyboard + letter 'r'
 following window should pop up:
 
-![Run_Cmd](http://i.hizliresim.com/2yg5lE.png)
+![Run_Cmd](http://i.imgur.com/rDgcxhQ.png)
 
 If you are using unix/linux system open your terminal.
 

@@ -1,6 +1,4 @@
-#31.01.2015.
 #python 2.7
-#author : tomislav kucar
 x = "There are %d types of people." % 10
 binary = "binary"
 do_not = "don't"

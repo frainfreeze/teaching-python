@@ -1,7 +1,4 @@
-#31.01.2015.
 #python 2.7
-#author : tomislav kucar
-
 print "What's your name?"
 name = raw_input()
 print 'hi %s' % (name)
