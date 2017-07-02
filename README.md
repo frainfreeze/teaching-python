@@ -1,3 +1,4 @@
+- not usable, please chek again later this  year
 # Teaching python
 Repository used to teach python 2.7
 
@@ -49,5 +50,5 @@ There are also excellent python lessons by Derek Banas on youtube: https://www.y
 An interesting blog to read is Mouse vs Python by Mike Driscoll: http://www.blog.pythonlibrary.org/
 ____
 
-Electric cafe studio will hold online course on 1.9.2016.
-You can sign today by sending email to pyCourse@electriccafestudio.com
+Electric cafe studio held complete experimental online course on 1.9.2016.
+This repository will be updated with rest of the material by end of 2017.
