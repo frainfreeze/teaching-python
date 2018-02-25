@@ -1,6 +1,10 @@
 # Teaching python
 
-This repository is itended to be used for teaching python 2.7
+This repository was used as reference and to teach basics of python 2.7
+
+This repository is locked as-is with minor modifications. You can find my more up-to-date information and python 3 resource [here](https://frainfreeze.github.io/references/notes/py).
+
+-----------------
 
 For start, little bit about python:
 ```
